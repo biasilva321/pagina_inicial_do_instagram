@@ -33,13 +33,13 @@ instragram-wrapper {
 }
 
 .instagram-phone img{
-    height: 50%;
+    height: 50rem;
 }
 
 .instagram-contunue {
     display: flex;
-    align-items: center;
-    justify-content: space-around;
+    align-items: center; /* horizontal*/
+    justify-content: space-around; /* vertical*/
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
